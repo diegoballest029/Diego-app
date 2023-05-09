@@ -1,0 +1,76 @@
+{
+  "reclutas": [
+    {
+      "nombre": "Diego Ballesteros",
+      "telefono": "1013949433",
+      "edad": "17",
+      "email": "diego@gmail.com",
+      "direccion": "Floridablanca",
+      "fechaNacimiento": "2023-05-10",
+      "numeroIdentificacion": "232323",
+      "fechaIngreso": "2023-05-17",
+      "idTeam": "12",
+      "id": 1
+    },
+    {
+      "nombre": "Elon Musk",
+      "telefono": "1013949433",
+      "edad": "52",
+      "email": "elon@gmail.com",
+      "direccion": "U.S",
+      "fechaNacimiento": "2023-05-10",
+      "numeroIdentificacion": "32242",
+      "fechaIngreso": "2023-05-01",
+      "idTeam": "12",
+      "id": 2
+    },
+    {
+      "nombre": "Bill Gates",
+      "telefono": "134323221",
+      "edad": "72",
+      "email": "bill@gmail.com",
+      "direccion": "U.S",
+      "fechaNacimiento": "2023-05-09",
+      "numeroIdentificacion": "1354322",
+      "fechaIngreso": "2023-05-10",
+      "idTeam": "12",
+      "id": 3
+    },
+    {
+      "nombre": "Steve Jobs",
+      "telefono": "123456",
+      "edad": "40",
+      "email": "steve@gmail.com",
+      "direccion": "U.S",
+      "fechaNacimiento": "2023-05-17",
+      "numeroIdentificacion": "1234556",
+      "fechaIngreso": "2023-05-17",
+      "idTeam": "13",
+      "id": 4
+    },
+    {
+      "nombre": "Benjamin Fraklim",
+      "telefono": "1013949433",
+      "edad": "78",
+      "email": "franklin@gmail.com",
+      "direccion": "343454",
+      "fechaNacimiento": "2023-05-01",
+      "numeroIdentificacion": "123441231",
+      "fechaIngreso": "2023-05-12",
+      "idTeam": "12",
+      "id": 5
+    }
+  ],
+  "teams": [
+    {}
+  ],
+  "skill": [
+    {}
+  ],
+  "modulo skill": [
+    {}
+  ],
+  "Evaluacion": [
+    {}
+  ]
+}

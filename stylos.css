@@ -1,0 +1,15 @@
+
+body{
+    background-color: #e6e157;
+
+}
+.table thead{
+    background-color: #0a4f70;
+    color: white;
+}
+.container{
+   background-color: aqua;
+}
+h1{
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pruebacampus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
